@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pillow
+pytesseract
+deepface
+opencv-python
