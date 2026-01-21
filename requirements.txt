@@ -1,7 +1,8 @@
-fastapi
-uvicorn
-pillow
-pytesseract
-deepface
-opencv-python
-
+fastapi==0.114.0
+uvicorn[standard]==0.24.0
+pydantic==2.5.2
+deepface==0.0.109
+pytesseract==0.3.12
+Pillow==10.1.1
+opencv-python-headless==4.8.1.78
+numpy==1.26.4
